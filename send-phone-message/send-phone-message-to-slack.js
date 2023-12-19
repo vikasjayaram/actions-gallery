@@ -1,4 +1,9 @@
 /**
+ * Send Phone Message MFA to Slack
+ *
+ * Author: Vikas Jayaram <vikas@okta.com>
+ * Date: 2023-12-19
+ * License: MIT (https://github.com/auth0/actions-galleryh/blob/main/LICENSE)
 * Handler that will be called during the execution of a SendPhoneMessage flow.
 *
 * @param {Event} event - Details about the user and the context in which they are logging in.
